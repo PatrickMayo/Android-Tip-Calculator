@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="date"
+        android:id="@+id/tipDateTextView"
+        android:padding="3dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/tipPercentLabel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Bill Amount"
+        android:id="@+id/billAmountLabel"
+        android:padding="3dp"
+        android:layout_below="@+id/tipDateTextView"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tip Percent"
+        android:id="@+id/tipPercentLabel"
+        android:padding="3dp"
+        android:layout_below="@+id/billAmountLabel"
+        android:layout_toLeftOf="@+id/billAmountTextView" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    Delete    "
+        android:id="@+id/deleteTipButton"
+        android:padding="3dp"
+        android:layout_marginRight="23dp"
+        android:layout_alignTop="@+id/billAmountLabel"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Tip%"
+        android:id="@+id/tipPercentTextView"
+        android:layout_alignBottom="@+id/tipPercentLabel"
+        android:layout_alignLeft="@+id/billAmountTextView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="billamt"
+        android:id="@+id/billAmountTextView"
+        android:layout_marginLeft="27dp"
+        android:layout_alignBottom="@+id/billAmountLabel"
+        android:layout_toRightOf="@+id/billAmountLabel" />
+
+</RelativeLayout>

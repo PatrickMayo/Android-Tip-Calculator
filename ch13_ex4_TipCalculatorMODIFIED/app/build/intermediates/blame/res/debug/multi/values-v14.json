@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "C:\\Users\\Patrick\\Documents\\GitHub\\Android-Tip-Calculator\\ch13_ex4_TipCalculatorMODIFIED\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick\\Documents\\GitHub\\Android-Tip-Calculator\\ch13_ex4_TipCalculatorMODIFIED\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Patrick\\OneDrive\\School Work\\Rowan University\\Year 3\\Semester 2\\TiMP\\Homework\\ch13_ex4_TipCalculatorMODIFIED\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick\\OneDrive\\School Work\\Rowan University\\Year 3\\Semester 2\\TiMP\\Homework\\ch13_ex4_TipCalculatorMODIFIED\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\pmayo\\OneDrive\\School Work\\Rowan University\\Year 3\\Semester 2\\TiMP\\Homework\\ch13_ex4_TipCalculatorMODIFIED\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\pmayo\\OneDrive\\School Work\\Rowan University\\Year 3\\Semester 2\\TiMP\\Homework\\ch13_ex4_TipCalculatorMODIFIED\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 77,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]
